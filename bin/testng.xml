@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Component Tests" verbose="2" annotations="JDK">
+  <test name="FirstMaven" >
+    <classes>
+      <class name="home.sample.AppTest" />
+    </classes>
+  </test>
+</suite>
